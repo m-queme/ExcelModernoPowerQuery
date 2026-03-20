@@ -1,0 +1,51 @@
+id_estudiante,nombre,edad,grado,promedio,asistencia_pct,escuela,ciudad
+1,Ana López,15,9,8.7,92,Instituto Central,Quetzaltenango
+2,Carlos Méndez,16,10,7.5,88,Colegio San José,Xela
+3,María Pérez,14,8,9.1,95,Instituto Central,Quetzaltenango
+4,Juan García,15,9,6.8,80,Colegio La Esperanza,Totonicapán
+5,Sofía Ramírez,17,11,8.9,91,Colegio San José,Xela
+6,Luis Hernández,16,10,82,85,Instituto Central,Quetzaltenango
+7,Andrea López,15,9,9.3,97,Colegio La Esperanza,Totonicapán
+8,Pedro Gómez,14,8,7.1,78,Instituto Central,Quetzaltenango
+9,Karla Díaz,17,11,8.0,90,Colegio San José,Xela
+10,Miguel Torres,16,10,6.5,72,Colegio La Esperanza,Totonicapán
+11,Lucía Morales,15,9,9.5,98,Instituto Central,Quetzaltenango
+12,José Castillo,14,8,7.9,84,Colegio San José,Xela
+13,Elena Ruiz,16,10,8.4,89,Instituto Central,Quetzaltenango
+14,Diego Santos,15,9,5.8,65,Colegio La Esperanza,Totonicapán
+15,Patricia Cruz,17,11,9.0,93,Colegio San José,Xela
+16,Raúl Vargas,16,10,7.0,81,Instituto Central,Quetzaltenango
+17,Daniela Soto,15,9,8.6,90,Colegio La Esperanza,Totonicapán
+18,Marco Aguilar,14,8,6.9,74,Instituto Central,Quetzaltenango
+19,Ana López,15,9,8.7,92,Instituto Central,Quetzaltenango
+20,Fernando Reyes,17,11,7.8,87,Colegio San José,Xela
+21,Claudia Navarro,16,10,8.1,88,Instituto Central,Quetzaltenango
+22,Ricardo Luna,15,9,6.3,70,Colegio La Esperanza,Totonicapán
+23,Paola Fuentes,14,8,9.2,96,Instituto Central,Quetzaltenango
+24,Hugo Salazar,17,11,7.4,82,Colegio San José,Xela
+25,Marta León,16,10,8.8,91,Instituto Central,Quetzaltenango
+26,Julio Pineda,15,9,5.9,60,Colegio La Esperanza,Totonicapán
+27,Verónica Ríos,14,8,9.0,94,Instituto Central,Quetzaltenango
+28,Oscar Mejía,17,11,7.6,85,Colegio San José,Xela
+29,Sandra Ortiz,16,10,8.2,89,Instituto Central,Quetzaltenango
+30,Alberto Flores,15,9,6.1,73,Colegio La Esperanza,Totonicapán
+31,Julia Herrera,14,8,9.4,97,Instituto Central,Quetzaltenango
+32,Rafael Cifuentes,17,11,7.3,80,Colegio San José,Xela
+33,Natalia Cabrera,16,10,8.7,92,Instituto Central,Quetzaltenango
+34,Tomás Escobar,15,9,6.4,68,Colegio La Esperanza,Totonicapán
+35,Beatriz Maldonado,14,8,9.1,95,Instituto Central,Quetzaltenango
+36,Esteban Rosales,17,11,7.7,86,Colegio San José,Xela
+37,Laura Campos,16,10,8.5,90,Instituto Central,Quetzaltenango
+38,Guillermo Navas,15,9,6.2,71,Colegio La Esperanza,Totonicapán
+39,Alicia Barrios,14,8,9.3,96,Instituto Central,Quetzaltenango
+40,David Ochoa,17,11,7.5,84,Colegio San José,Xela
+41,Camila Vega,16,10,8.9,93,Instituto Central,Quetzaltenango
+42,Bruno Molina,15,9,5.7,64,Colegio La Esperanza,Totonicapán
+43,Irene Palacios,14,8,9.0,94,Instituto Central,Quetzaltenango
+44,Sergio Delgado,17,11,7.2,83,Colegio San José,Xela
+45,Paula Estrada,16,10,8.6,91,Instituto Central,Quetzaltenango
+46,Jorge Rivas,15,9,6.0,69,Colegio La Esperanza,Totonicapán
+47,Silvia Chacón,14,8,9.5,98,Instituto Central,Quetzaltenango
+48,Andrés Barrera,17,11,7.8,88,Colegio San José,Xela
+49,Mariana Figueroa,16,10,8.3,87,Instituto Central,Quetzaltenango
+50,Luis Hernández,16,10,7.0,85,Instituto Central,Quetzaltenango
