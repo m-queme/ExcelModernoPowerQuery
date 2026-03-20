@@ -22,12 +22,12 @@ Aprender a trabajar datos de forma más eficiente, pasando de procesos manuales 
 
 ## 💡 Enfoque
 
-El seminario fue práctico, orientado a casos reales, donde las transformaciones se realizaron paso a paso durante las clases.
+El seminario fue práctico,donde las transformaciones se realizaron paso a paso durante las clases.
 
 ## 🚀 Nota final
 
-Power Query tiene un gran potencial, especialmente en la automatización de procesos con un solo clic, lo cual abre muchas oportunidades para optimizar el trabajo con datos.
+Power Query tiene un gran potencial, aquí solo se enseño la introducción pero su gran potencial es la automatización de procesos con un solo clic, lo cual abre muchas oportunidades para optimizar el trabajo con datos.
 
 ## 👩‍🏫 Autor
 
-**Mercedes Queme**  
+**Mercedes Quemé**  
